@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "DDD",
+        "DDD",
+        "DDD"
+    ],
+    
+    "key":
+    {
+        "D":
+        {
+            "item": "dreamsmod:dream_ingot"
+        }
+    },
+    
+    "result":
+    {
+        "item": "dreamsmod:dream_block",
+        "count": 1
+    }
+}

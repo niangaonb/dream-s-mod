@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+  [
+    " D ",
+    " S ",
+    " S "
+  ],
+
+  "key":
+  {
+    "D":
+    {
+      "item": "dreamsmod:dream_ingot"
+    },
+
+    "S":
+    {
+      "item": "dreamsmod:dream_stick"
+    }
+  },
+
+  "result":
+  {
+    "item": "dreamsmod:dream_sword",
+    "count": 1
+  }
+}

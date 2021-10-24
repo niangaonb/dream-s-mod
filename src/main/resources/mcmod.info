@@ -1,0 +1,16 @@
+[
+{
+  "modid": "dreamsmod",
+  "name": "Dream工艺",
+  "description": "年糕的第一个mod，质量不好请谅解。",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["代码：niangaoa（年糕），贴图：Drealy。"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

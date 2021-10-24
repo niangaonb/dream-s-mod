@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+
+    "pattern":
+    [
+        "DSD",
+        "DSD",
+        "DSD"
+    ],
+
+    "key":
+    {
+        "D":
+        {
+            "item": "dreamsmod:dream_ingot"
+        },
+
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+
+
+    },
+
+    "result":
+    {
+        "item": "dreamsmod:dream_stick",
+        "count": 1
+    }
+}
